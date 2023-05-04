@@ -1,4 +1,4 @@
-# App name
+# ChatGPT Ticket Summary by ATVEZA
 
 [brief description of the app]
 
