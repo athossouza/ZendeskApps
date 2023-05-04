@@ -1,0 +1,22 @@
+{
+  "app": {
+    "name": "Consulta CEP Endereço Brasil",
+    "short_description": "Este app consulta endereços a partir do CEP usando API de viacep.com.br",
+    "long_description": "Este app consulta endereços a partir do CEP usando API de viacep.com.br",
+    "installation_instructions": "Clique para instalar e adicione os IDs dos campos de endereço.",
+    "parameters": {
+      "field_cep" : {
+        "label": "ID do campo CEP"
+      },
+      "field_uf" : {
+        "label": "ID do campo UF"
+      },
+      "field_cidade" : {
+        "label": "ID do campo Cidade"
+      },
+      "field_logradouro" : {
+        "label": "ID do campo Logradouro"
+      }
+    }
+  }
+}

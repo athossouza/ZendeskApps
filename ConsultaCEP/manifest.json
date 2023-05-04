@@ -1,0 +1,46 @@
+{
+  "name": "Consulta CEP",
+  "author": {
+    "name": "Athos Alves De Souza",
+    "email": "athos@atveza.com",
+    "url": "https://atveza.com"
+  },
+  "defaultLocale": "en",
+  "private": false,
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "assets/iframe.html",
+        "flexible": true
+      }
+    }
+  },
+  "parameters": [
+    {
+      "name": "field_cep",
+      "type": "text",
+      "secure": false,
+      "required": true
+    },
+    {
+      "name": "field_uf",
+      "type": "text",
+      "secure": false,
+      "required": true
+    },
+    {
+      "name": "field_cidade",
+      "type": "text",
+      "secure": false,
+      "required": true
+    },
+    {
+      "name": "field_logradouro",
+      "type": "text",
+      "secure": false,
+      "required": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}
