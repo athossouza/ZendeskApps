@@ -1,4 +1,4 @@
-# App name
+# Consulta CEP
 
 [brief description of the app]
 
