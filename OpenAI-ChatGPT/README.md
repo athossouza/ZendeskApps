@@ -12,4 +12,5 @@ The best Zendesk ticketing intelligent assistent
 Please submit bug reports to issues tab.
 
 ### Screenshot(s):
-[put your screenshots down here.]
+![alt text](https://atveza.com/wp-content/uploads/2023/05/screenshot-1.png)
+![alt text](https://atveza.com/wp-content/uploads/2023/05/screenshot-0.png)
