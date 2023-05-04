@@ -1,14 +1,15 @@
 # ChatGPT Ticket Summary by ATVEZA
 
-[brief description of the app]
+The best Zendesk ticketing intelligent assistent
 
 ### The following information is displayed:
 
-* info1
-* info2
-* info3
+* Answer suggestion
+* Ticket summary
+* Ticket AI assistent
+* Key information
 
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+Please submit bug reports to issues tab.
 
 ### Screenshot(s):
 [put your screenshots down here.]
